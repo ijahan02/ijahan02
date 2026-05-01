@@ -1,4 +1,4 @@
-<h1 align="center">Good day, I'm Ayjahan 👋</h1>
+<h1 align="left">Good day, I'm Ayjahan 👋</h1>
 
 <p align="left">
   Front-end Developer · Ashgabat, Turkmenistan
