@@ -1,10 +1,10 @@
 <h1 align="center">Good day, I'm Ayjahan 👋</h1>
 
-<p align="center">
-  <em>Front-end Developer · Ashgabat, Turkmenistan</em>
+<p align="left">
+  Front-end Developer · Ashgabat, Turkmenistan
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:ayjahangurbanmuradova5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -21,7 +21,7 @@
 ### 👩‍💻 About Me
 
 - 🎨 Passionate about building **beautiful, accessible & responsive** user interfaces
-- ⚡ I work with **React, Next.js, Vue.js, Nuxt, TypeScript, Tailwind CSS & SCSS**
+- ⚡ I work with **React, Next.js, Vue.js, Nuxt 4, TypeScript, Tailwind CSS & SCSS**
 - 🌱 Currently deepening my skills in **advanced TypeScript & component architecture**
 - 🤝 Open to collaborating on **open-source frontend projects**
 - 📬 Reach me at: **ayjahangurbanmuradova5@gmail.com**
@@ -46,20 +46,3 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijahan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ijahan02&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
-
-<p align="center">
-  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
-</p>
