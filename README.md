@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayjahan 👋</h1>
+<h1 align="center">Good day, I'm Ayjahan 👋</h1>
 
 <p align="center">
   <em>Front-end Developer · Ashgabat, Turkmenistan</em>
@@ -48,31 +48,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijahan02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijahan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ijahan02&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-### 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ijahan02?theme=dark&font=Nunito&ext=contest&hide_border=true" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijahan02&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijahan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
